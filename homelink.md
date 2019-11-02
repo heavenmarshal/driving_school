@@ -4,8 +4,8 @@
 
 For one side of a four way intersection, the sequence of traffic
 lights are the following: 1) left turn green (about 10s), 2) left turn
-yellow (1~2s), 3) four way red (3~4s), 4) straight green (about 15s), 
-5) straight yellow (1~2s), 6) red (about 30s).
+yellow (1\~2s), 3) four way red (3\~4s), 4) straight green (about 15s), 
+5) straight yellow (1\~2s), 6) red (about 30s).
 
 ### b. What is the duration of the four way red before the green light?
 
