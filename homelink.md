@@ -145,7 +145,9 @@ The car goes straight forward.
 
 ### 3.c Why is the vehicle going straight?
 
-Because the font wheels return to the straight position after the hands left the steering wheel.
+Because when the car goes forward and the front wheels turn to the left, there is a friction on the front wheels pointing to the forward left. Since there is a cast angle on the front wheel, the pivot point of the front wheel is in front of the point where the front wheels receives the friction. Therefore, the friction forces the front wheels returning to the straight position. So the car goes straight forward. See the vedio below for details.
+
+[![How does the Steering Wheel automatically returns to its center](https://img.youtube.com/vi/wLbs8kBXgrw/0.jpg)](https://www.youtube.com/watch?v=wLbs8kBXgrw)
 
 ### 4.a What just happened?
 
@@ -169,3 +171,9 @@ The car still turning left.
 It still goes back left.
 
 ### 5.c Why is the vehicle still turning left?
+
+Because when the car goes backward and the front wheels turn to the left, there is a friction on the front wheels pointing to the backward right. This friction forces the front wheel keep turning to the left.
+
+## 3 Tires, Their Purpose and Behavior
+
+### a Awareness the construction of a tire.
