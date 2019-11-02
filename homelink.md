@@ -176,4 +176,50 @@ Because when the car goes backward and the front wheels turn to the left, there 
 
 ## 3 Tires, Their Purpose and Behavior
 
-### a Awareness the construction of a tire.
+### Awareness of the construction of a tire
+
+According to the [Wiki page](https://en.wikipedia.org/wiki/Tire), the matarials of modern pneumatic tires are pneumatic tires are synthetic rubber, natural rubber, fabric and wire, along with carbon black and other chemical compounds. Typicall, tires consist of the following components:
+
+1. **tread**: the part of the tire that comes in contact with the road surface,
+2. **bead**: the part of the tire that contacts the rim on the wheel,
+3. **sidewall**: the part of the tire that bridges between the tread and the bead,
+4. **shoulder**: the part of the tire at the edge of the tread as it makes transition to the sidewall,
+5. **piles**: layers of of relatively inextensible cords embedded in the rubber to hold its shape by preventing the rubber from stretching in response to the internal pressure.
+
+The following figure illustrates the construction of a tire.
+
+![Tire construction](https://upload.wikimedia.org/wikipedia/commons/3/3c/Tire_components_--_NHTSA_The_Pneumatic_Tire.png)
+
+### Awareness of the different types of tires and their purpose
+
+There are several different type of tires
+
+1. **snow/winter tires**: designed for increase traction on snow and ice covered roads,
+
+![Snow tire](img/ca-01a-types-3snow.jpg)
+
+2. **all terrain tires**: provide good performance on most road surfaces, in most weather conditions, and for off-road driving,
+
+![all terrian](img/ca-01a-types-2allterrain.jpg)
+
+3. **performance tires**: designed for enhanced handling under demanding circumstances and generally have high-speed ratings with a low aspect ratio for improved control,
+
+![performance](img/ca-01a-types-6performance.jpg)
+
+4. **summer only tires**:  they have a special tread and compound that are optimized for maximum dry- and wet-road performance,
+
+![performance](img/ca-01a-types-7summer.jpg)
+
+5. **run-flat tires**: run-flat tires can be driven short distances at a moderate speed with no air pressure. There is no need to immediately stop to change the tire.
+
+![run-flat](img/ca-01a-types-4runflat.jpg)
+
+### Awareness of how proper maintenance is a safety factor
+
+The following actions should be taken for proper maintenance of the tires:
+
+1. **proper inflation**: the tires should be inflated to the recommended pressure provided by the manufacturer. Overinflation may increase the wear on the center contact patch, and underinflation will cause a concave tread, resulting in less center contact, though the overall contact patch will still be larger.
+
+2. **rotation**: tire rotation is moving the tires to different car positions, such as front-to-rear, in order to even out the wear, with the objective of extending the life of the tire.
+
+3. **wheel alignment**:  wheel alignment is the procedure for checking and correcting this condition through adjustment of camber, caster and toe angles. It helps prevent wear of tires by having the tire rotate in a direction, other than the path of the vehicle. 
