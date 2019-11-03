@@ -67,7 +67,7 @@ kids, but the pedestrians cannot see how many seconds left for them to
 cross. The hand light provide warnings for the pedestrians to move
 quickly and cautiously, but it does not provide the information of the
 time as well. The timer light informs the pedestrians the time left
-but as straightforward as the pictograph walking man. 
+but not as straightforward as the pictograph walking man. 
 
 ### l. Do you know what is scrambled intersection? Would this intersection benefit from one?
 	
@@ -116,7 +116,7 @@ buildings are not high and keep a good distance from the road.
 
 After engaging "D", not touching the gas pedal and letting go the wheel, the car starts and moves straight forward in constant speed. It is because the started engine propels the vehicle forward. Since the wheels are straight and the ground is flat, there is no force to push the car out of the straight line.
 
-After doing the tight left turn, the car turns to the left. It is because the front wheels turns to the left and guide the car to the left.
+After doing the tight left turn, the car turns to the left. It is because the front wheels turn to the left and guide the car to the left.
 
 After releasing the steering wheel, the car stops turning left and goes straight forward. Because when the car goes forward and the front wheels turn to the left, there is a friction on the front wheels pointing to the forward left. Since there is a cast angle on the front wheel, the pivot point of the front wheel is in front of the point where the front wheels receives the friction. Therefore, the friction forces the front wheels returning to the straight position. So the car goes straight forward.
 
@@ -128,7 +128,7 @@ After releasing the steering wheel, the car keep turning left. Because when the 
 
 ### Awareness of the construction of a tire
 
-According to the [Wiki page](https://en.wikipedia.org/wiki/Tire), the matarials of modern pneumatic tires are pneumatic tires are synthetic rubber, natural rubber, fabric and wire, along with carbon black and other chemical compounds. Typicall, tires consist of the following components:
+According to the [Wiki page](https://en.wikipedia.org/wiki/Tire), the materials of modern pneumatic tires are synthetic rubber, natural rubber, fabric and wire, along with carbon black and other chemical compounds. Typicall, tires consist of the following components:
 
 1. **tread**: the part of the tire that comes in contact with the road surface,
 2. **bead**: the part of the tire that contacts the rim on the wheel,
@@ -183,12 +183,12 @@ The lighting system of an automobile lights the roadway for the driver and incre
 There are several categories of automobile lights:
 
 1. **headlight**: a lamp attached to the front of a vehicle to illuminate the road ahead. There are two modes of the headlight,
-- low beam: it provides a light distribution to give adequate forward and lateral illumination without dazzling other road uses with excessive glare.
+- low beam: it provides a light distribution to give adequate forward and lateral illumination without dazzling other road users with excessive glare.
 - hight beam: it provides an intense, center-weighted distribution of light with no particular control of glare. It is suitable for use when alone on the road.
 
 2. **auxiliary lamps**: there are typically two types of auxiliary lamps on a civilian passenger car, driving lamps, which provide hight intensity lights to enable the driver to see at longer range than the vehicle's high beam, and front fog lamps, which is designed for the condition of low visibility due to rain, fog, dust or snow.
 
-3. **side marker and reflectors**: side-facing devices make the presence, position and direction of travel clearly visible visible from oblique angles.
+3. **side marker and reflectors**: side-facing devices make the presence, position and direction of travel clearly visible from oblique angles.
 
 4. **turn signals**: blinking lamps mounted near the front and rear corners of a vehicle and sometimes on the sides or on the side mirrors. They indicate the intention to turn or change the lane. 
 
@@ -200,7 +200,7 @@ There are several categories of automobile lights:
 
 The world's first traffic light was a manually operated gas-lit signal installed in London in Dec. 1868. The first automatic traffic control system was patented in 1910 in Chicago. Traffic lights alternate the right of way accorded to users by illuminating lamps or LEDs of standard colours (red, amber (yellow), and green) following a universal colour code.
 
-The color scheme of the traffic lights derives from a system used by the rail road. The red is chosen for stop since red has for centuries been used to indicate danger. The red color has the longest wavelength of any color on the visible spectrum, meaning people can see it from a greater distance than other colors. The white color was originally chosen for "all-clear" but it is easily confused with the glaring stars and causing accidents. So white is replace by green since green has the longest spectrum except for red and yellow. The yellow color is chosen for "caution" since it is very distinct from the other two colors.
+The color scheme of the traffic lights derives from a system used by the rail road. The red is chosen for stop since red has for centuries been used to indicate danger. The red color has the longest wavelength of any color on the visible spectrum, meaning people can see it from a greater distance than other colors. The white color was originally chosen for "all-clear" but it is easily confused with the glaring stars and causing accidents. So white is replace by green since green has the longest wavelength except for red and yellow. The yellow color is chosen for "caution" since it is very distinct from the other two colors and serves as a transition from green to red.
 
 The traffic lights in Ontario operates as follows:
 
@@ -214,7 +214,7 @@ The sequence and timing scheme of a typically traffic light system is shown in t
 
 ![traffic light](img/trafficchartUSAJPG.jpg)
 
-The color blind people are allowed to obtained a driving licence provided that they can pass a test of memorizing the relative positions of the traffic lights. 
+The color blind people are allowed to obtain a driving licence provided that they can pass a test of memorizing the relative positions of the traffic lights. 
 
 ## 6. Vehicle Ergonomics
 
@@ -236,7 +236,7 @@ There are three major locations for for car controls.
 
 2. **Floor controls**: include accelerator pedal (right foot), brake pedal (right foot), clutch pedal (left foot, for manual transmission cars), gear lever (right hand) and parking brake (right hand)
 
-3. **Consol controls**: include ignition, hazard warning lights, heat controls, air conditioning controls, rear demister and airbag deactivator.
+3. **Console controls**: include ignition, hazard warning lights, heat controls, air conditioning controls, rear demister and airbag deactivator.
 
 The following image shows the placement of the instrument cluster
 
@@ -248,7 +248,7 @@ The two main instruments are the speedometer (right) shows the speed of the car 
 
 ### a. Greenhouse gas and climate change
 
-Carbon dioxide is called a greenhouse gas because it absorbs and emits radiant energy within the thermal infrared range and causes the greenhouse effect which warms up the surface of earth and lead to climate change. The potential consequences of climate changes includes 1) frost free season will lengthen, 2) changes in precipitation patterns, 3) more droughts and heat waves, 4) stronger hurricanes, 5) see level rise, 6) arctic likely to become ice-free. 
+Carbon dioxide is called a greenhouse gas because it absorbs and emits radiant energy within the thermal infrared range and causes the greenhouse effect which warms up the surface of earth and lead to climate change. The potential consequences of climate changes includes 1) frost free season will lengthen, 2) changes in precipitation patterns, 3) more droughts and heat waves, 4) stronger hurricanes, 5) sea level rise, 6) arctic likely to become ice-free. 
 
 ### b. Fuel efficient driving
 
@@ -260,7 +260,7 @@ Fuel efficient driving reduces the emission of green house gas therefore contrib
 
 It is suggested that the car is serviced every year or every 12,000 miles travelled, whichever comes first. 
 
-The suggested tire pressure can be found on on a sticker in the door jamb, or in the owner's manual. Some models place place the stickers on the trunk lid, in the console or on the fuel door. 
+The suggested tire pressure can be found on on a sticker in the door jamb, or in the owner's manual. Some models place the stickers on the trunk lid, in the console or on the fuel door. 
 
 The checklist of items for vehicle maintenance: 1) fluids, include engine oil, coolant, transmission oil, e.t.c. 2) wipers, should be changed every year, 3) lights, ensure all of them work, 4) battery, watch for corrosion at the battery terminal, 5) tires, maintain proper pressure,
 6) filters, should be replace when they are dirty. 
